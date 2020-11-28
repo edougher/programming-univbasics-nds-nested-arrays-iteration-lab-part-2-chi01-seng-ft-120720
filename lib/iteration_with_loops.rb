@@ -13,8 +13,8 @@ def find_min_in_nested_arrays(src)
       end
       inner_n += 1
     end
-    resluts_array << min_temp
     n += 1
+    resluts_array << min_temp
 end
 resluts_array
 end
