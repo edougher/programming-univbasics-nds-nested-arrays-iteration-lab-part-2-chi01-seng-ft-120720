@@ -15,9 +15,8 @@ def find_min_in_nested_arrays(src)
     end
     resluts_array << min_temp
     n += 1
-    resluts_array
 end
-
+resluts_array
 end
 array_1 = [
   [19, 21, 24, 26, 30, 34, 37, 39, 40, 45, 48, 50, 55, 60, 63, 59, 49, 45, 40, 39, 34, 32, 25, 18],
